@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: sm
+  graphql:
+    graphiql:
+      enabled: true

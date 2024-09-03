@@ -1,0 +1,39 @@
+type Query {
+    getList: ObjectList
+    mark(id: String!, person: String!): Boolean
+}
+
+type ObjectList {
+    results: [Element!]!
+}
+
+type Element {
+    id: String!
+    properties: Properties!
+}
+
+type Properties {
+    done: Done
+    progress: Progress
+    titleProperty: TitleProperty
+}
+
+type Done {
+    checkbox: Boolean
+}
+
+type Progress {
+    select: Select
+}
+
+type Select {
+    name: String
+}
+
+type TitleProperty {
+    title: [Title!]!
+}
+
+type Title {
+    plain_text: String
+}

@@ -1,0 +1,5415 @@
+{
+  "object" : "list",
+  "results" : [ {
+    "object" : "page",
+    "id" : "f189de24-0bca-43ed-a563-24589698a09d",
+    "created_time" : "2024-08-19T21:25:00.000Z",
+    "last_edited_time" : "2024-08-19T21:25:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : null
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Aspirador de pó ",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Aspirador de pó ",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Aspirador-de-p-f189de240bca43eda56324589698a09d",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "fff5d555-1767-8088-81af-ed403aff108b",
+    "created_time" : "2024-08-19T17:52:00.000Z",
+    "last_edited_time" : "2024-08-19T17:52:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : null
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Boleira",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Boleira",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Boleira-fff5d5551767808881afed403aff108b",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "fff5d555-1767-80b7-ba3a-f32617fd6b89",
+    "created_time" : "2024-08-19T17:52:00.000Z",
+    "last_edited_time" : "2024-08-19T17:52:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : null
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Queijeira",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Queijeira",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Queijeira-fff5d555176780b7ba3af32617fd6b89",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "0d719d48-2453-44ec-bf61-8426ac60180c",
+    "created_time" : "2024-08-19T17:50:00.000Z",
+    "last_edited_time" : "2024-08-19T17:50:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : null
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Jogo de Taças ",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Jogo de Taças ",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Jogo-de-Ta-as-0d719d48245344ecbf618426ac60180c",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "049f9598-8ee5-481a-9be1-3020cc9b33ff",
+    "created_time" : "2024-08-19T17:48:00.000Z",
+    "last_edited_time" : "2024-08-19T17:49:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : null
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Aparelho de jantar",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Aparelho de jantar",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Aparelho-de-jantar-049f95988ee5481a9be13020cc9b33ff",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "40147b42-30dc-49b2-8f6b-fe416590a88c",
+    "created_time" : "2024-08-19T17:45:00.000Z",
+    "last_edited_time" : "2024-08-19T17:46:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : null
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Pegador térmico de cozinha ",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Pegador térmico de cozinha ",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Pegador-t-rmico-de-cozinha-40147b4230dc49b28f6bfe416590a88c",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "b95dad0b-ebc2-4303-b8fe-089d939af558",
+    "created_time" : "2024-08-19T17:42:00.000Z",
+    "last_edited_time" : "2024-08-19T17:43:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : null
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Luva térmica de cozinha",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Luva térmica de cozinha",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Luva-t-rmica-de-cozinha-b95dad0bebc24303b8fe089d939af558",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "0e9194c0-0b4f-49ab-be84-309b0515f07a",
+    "created_time" : "2024-08-19T17:40:00.000Z",
+    "last_edited_time" : "2024-08-19T17:40:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : null
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Porta guardanapo",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Porta guardanapo",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Porta-guardanapo-0e9194c00b4f49abbe84309b0515f07a",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "f36c1e69-4f5e-4738-8bdf-8c0eef8e27c8",
+    "created_time" : "2024-08-19T17:39:00.000Z",
+    "last_edited_time" : "2024-08-19T17:39:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : null
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Suporte porta rolos",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Suporte porta rolos",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Suporte-porta-rolos-f36c1e694f5e47388bdf8c0eef8e27c8",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "045733f5-4ae3-4e6b-8718-55caad7bac02",
+    "created_time" : "2024-08-19T17:38:00.000Z",
+    "last_edited_time" : "2024-08-19T17:39:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : null
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Porta papel toalha",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Porta papel toalha",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Porta-papel-toalha-045733f54ae34e6b871855caad7bac02",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "98d9fc6d-a08c-4550-b001-765abe108d20",
+    "created_time" : "2024-08-19T17:37:00.000Z",
+    "last_edited_time" : "2024-08-19T17:37:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : null
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Funil",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Funil",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Funil-98d9fc6da08c4550b001765abe108d20",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "c3d01579-caed-43e6-8758-fca1a249e8c1",
+    "created_time" : "2024-08-19T17:35:00.000Z",
+    "last_edited_time" : "2024-08-19T17:35:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : null
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Martelo de cozinha",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Martelo de cozinha",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Martelo-de-cozinha-c3d01579caed43e68758fca1a249e8c1",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "5597cb4e-fbb9-444c-9d21-3a980465186b",
+    "created_time" : "2024-08-19T17:34:00.000Z",
+    "last_edited_time" : "2024-08-19T17:34:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : null
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Rolo de massa ",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Rolo de massa ",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Rolo-de-massa-5597cb4efbb9444c9d213a980465186b",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "9a4d8c78-4d1f-49f3-9628-8c7489921345",
+    "created_time" : "2024-08-19T17:30:00.000Z",
+    "last_edited_time" : "2024-08-19T17:30:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : null
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Pegador de massas e frios",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Pegador de massas e frios",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Pegador-de-massas-e-frios-9a4d8c784d1f49f396288c7489921345",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "b891f572-7bcc-4765-90d6-30fef1e76b65",
+    "created_time" : "2024-08-19T17:27:00.000Z",
+    "last_edited_time" : "2024-08-19T17:27:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : null
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Formas de bolo retangular (tamanhos variados)",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Formas de bolo retangular (tamanhos variados)",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Formas-de-bolo-retangular-tamanhos-variados-b891f5727bcc476590d630fef1e76b65",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "96bb9036-e9aa-4114-9d55-37447551ec75",
+    "created_time" : "2024-08-19T17:26:00.000Z",
+    "last_edited_time" : "2024-08-19T17:26:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : null
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Forma de pudim",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Forma de pudim",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Forma-de-pudim-96bb9036e9aa41149d5537447551ec75",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "24001d82-b673-44e0-8216-e2a99a5d2f5a",
+    "created_time" : "2024-08-19T17:25:00.000Z",
+    "last_edited_time" : "2024-08-19T17:25:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : null
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Conjunto de facas",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Conjunto de facas",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Conjunto-de-facas-24001d82b67344e08216e2a99a5d2f5a",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "09a4861d-3654-4945-89a3-1b15245a63e3",
+    "created_time" : "2024-08-19T17:24:00.000Z",
+    "last_edited_time" : "2024-08-19T17:24:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : null
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Amolador de faca (ou Chaira)",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Amolador de faca (ou Chaira)",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Amolador-de-faca-ou-Chaira-09a4861d3654494589a31b15245a63e3",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "6181e955-0bd2-414a-b3e1-7a266a88d2a4",
+    "created_time" : "2024-08-19T17:22:00.000Z",
+    "last_edited_time" : "2024-08-19T17:22:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : null
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Pinça para pegar alimentos",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Pinça para pegar alimentos",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Pin-a-para-pegar-alimentos-6181e9550bd2414ab3e17a266a88d2a4",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "b2664db7-c1f9-4cb7-8997-8539d9be7deb",
+    "created_time" : "2024-08-19T17:19:00.000Z",
+    "last_edited_time" : "2024-08-19T17:20:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : null
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Secador de folhas",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Secador de folhas",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Secador-de-folhas-b2664db7c1f94cb789978539d9be7deb",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "a5c270d5-d7c7-45ad-8799-ec61e11f2082",
+    "created_time" : "2024-08-19T17:19:00.000Z",
+    "last_edited_time" : "2024-08-19T17:19:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : null
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Amassador de batatas",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Amassador de batatas",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Amassador-de-batatas-a5c270d5d7c745ad8799ec61e11f2082",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "6e1bbfb2-f0fd-4984-ad8b-bff50e42978e",
+    "created_time" : "2024-08-19T17:18:00.000Z",
+    "last_edited_time" : "2024-08-19T17:18:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : null
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Tesoura de cozinha",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Tesoura de cozinha",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Tesoura-de-cozinha-6e1bbfb2f0fd4984ad8bbff50e42978e",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "acb0861d-b350-4e30-9b19-4a33a2bb77f6",
+    "created_time" : "2024-08-19T17:17:00.000Z",
+    "last_edited_time" : "2024-08-19T17:17:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : null
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Potes de vidro com tampa (tamanhos variados)",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Potes de vidro com tampa (tamanhos variados)",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Potes-de-vidro-com-tampa-tamanhos-variados-acb0861db3504e309b194a33a2bb77f6",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "0faabbc5-1e23-4ebc-9ea8-2f5882b967d1",
+    "created_time" : "2024-08-19T17:14:00.000Z",
+    "last_edited_time" : "2024-08-19T21:35:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : null
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Medidas padrão (colheres e xícaras)",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Medidas padrão (colheres e xícaras)",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Medidas-padr-o-colheres-e-x-caras-0faabbc51e234ebc9ea82f5882b967d1",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "88da2878-56a1-4bbb-9014-bc1cedc2d67f",
+    "created_time" : "2024-08-19T17:14:00.000Z",
+    "last_edited_time" : "2024-08-19T17:14:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : null
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Jarra graduada",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Jarra graduada",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Jarra-graduada-88da287856a14bbb9014bc1cedc2d67f",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "464258e4-1003-423f-b908-91b4208bf130",
+    "created_time" : "2024-08-19T17:12:00.000Z",
+    "last_edited_time" : "2024-08-19T17:12:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : null
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Abridor de lata",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Abridor de lata",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Abridor-de-lata-464258e41003423fb90891b4208bf130",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "dc993665-4e5b-40c7-b984-061e4ca71a77",
+    "created_time" : "2024-08-19T17:12:00.000Z",
+    "last_edited_time" : "2024-08-19T17:23:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : null
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Descascador de legumes",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Descascador de legumes",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Descascador-de-legumes-dc9936654e5b40c7b984061e4ca71a77",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "e090daa5-d232-46d4-9a48-fb4ed78e8381",
+    "created_time" : "2024-08-19T17:09:00.000Z",
+    "last_edited_time" : "2024-08-19T17:09:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : null
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Tigelas de vidro",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Tigelas de vidro",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Tigelas-de-vidro-e090daa5d23246d49a48fb4ed78e8381",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "cb64860e-01ac-4f04-ad60-ed4c6529bb2a",
+    "created_time" : "2024-08-19T17:07:00.000Z",
+    "last_edited_time" : "2024-08-19T17:10:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : null
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Tigela grande de plástico ",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Tigela grande de plástico ",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Tigela-grande-de-pl-stico-cb64860e01ac4f04ad60ed4c6529bb2a",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "f05f5248-0e55-4a0a-9fed-dfd80556fb4f",
+    "created_time" : "2024-08-19T17:07:00.000Z",
+    "last_edited_time" : "2024-08-19T17:15:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : null
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Tigela de inox",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Tigela de inox",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Tigela-de-inox-f05f52480e554a0a9feddfd80556fb4f",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "a3f6b0db-5532-49da-97e6-fd6874050a98",
+    "created_time" : "2024-08-19T17:05:00.000Z",
+    "last_edited_time" : "2024-08-19T17:05:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : null
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Espremedor de laranja",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Espremedor de laranja",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Espremedor-de-laranja-a3f6b0db553249da97e6fd6874050a98",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "3b43451f-c306-4b04-bfc7-c31696a72df4",
+    "created_time" : "2024-08-19T17:03:00.000Z",
+    "last_edited_time" : "2024-08-19T17:50:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : null
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Multiprocessador",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Multiprocessador",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Multiprocessador-3b43451fc3064b04bfc7c31696a72df4",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "fe9434be-d72d-4276-8178-5143286d14ff",
+    "created_time" : "2024-08-19T16:58:00.000Z",
+    "last_edited_time" : "2024-08-19T17:00:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : null
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Jogo de tigelas de sobremesa ",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Jogo de tigelas de sobremesa ",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Jogo-de-tigelas-de-sobremesa-fe9434bed72d427681785143286d14ff",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "ed65fc3d-1033-4485-9c1c-e0b6a34c6286",
+    "created_time" : "2024-08-15T19:39:00.000Z",
+    "last_edited_time" : "2024-08-15T19:39:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : null
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Lixeira de pia",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Lixeira de pia",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Lixeira-de-pia-ed65fc3d103344859c1ce0b6a34c6286",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "2515c7ca-b554-4cb4-ae48-56602a29c6ba",
+    "created_time" : "2024-08-15T19:38:00.000Z",
+    "last_edited_time" : "2024-08-15T19:38:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : null
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Lixeira grande",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Lixeira grande",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Lixeira-grande-2515c7cab5544cb4ae4856602a29c6ba",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "70e9f0a4-0eb1-4ea6-868b-902d800b32a1",
+    "created_time" : "2024-08-15T19:36:00.000Z",
+    "last_edited_time" : "2024-08-19T16:58:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : null
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Porta temperos",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Porta temperos",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Porta-temperos-70e9f0a40eb14ea6868b902d800b32a1",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "2f6ec631-07f7-4fc9-a6c5-766da0263ec5",
+    "created_time" : "2024-07-23T02:24:00.000Z",
+    "last_edited_time" : "2024-07-23T02:27:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Filtro de água",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Filtro de água",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Filtro-de-gua-2f6ec63107f74fc9a6c5766da0263ec5",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "2cc2e3a4-ac83-4337-9954-42f78a37dd6c",
+    "created_time" : "2024-07-23T02:24:00.000Z",
+    "last_edited_time" : "2024-07-23T02:28:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Varão de cortina",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Varão de cortina",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Var-o-de-cortina-2cc2e3a4ac834337995442f78a37dd6c",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "7a483eb6-9203-4e61-a839-a7651fe4a7e8",
+    "created_time" : "2024-07-23T02:23:00.000Z",
+    "last_edited_time" : "2024-07-23T02:26:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Cortina",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Cortina",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Cortina-7a483eb692034e61a839a7651fe4a7e8",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "49a76626-06c1-49f7-a48d-067a0382389c",
+    "created_time" : "2024-07-23T02:23:00.000Z",
+    "last_edited_time" : "2024-07-23T02:27:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Espatula",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Espatula",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Espatula-49a7662606c149f7a48d067a0382389c",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "1a46c00d-3377-4121-87e0-7df96b2ac5c5",
+    "created_time" : "2024-07-23T02:23:00.000Z",
+    "last_edited_time" : "2024-07-23T02:27:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Leiteira",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Leiteira",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Leiteira-1a46c00d3377412187e07df96b2ac5c5",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "832483ce-75cb-47d8-a6ad-a45f47b48c70",
+    "created_time" : "2024-07-23T02:23:00.000Z",
+    "last_edited_time" : "2024-07-23T02:27:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Porta escova de dentes",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Porta escova de dentes",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Porta-escova-de-dentes-832483ce75cb47d8a6ada45f47b48c70",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "ba20cd8a-dcdf-43dc-b3b0-a95f291dd73e",
+    "created_time" : "2024-07-23T02:22:00.000Z",
+    "last_edited_time" : "2024-07-23T02:27:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Tabua de carne",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Tabua de carne",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Tabua-de-carne-ba20cd8adcdf43dcb3b0a95f291dd73e",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "8e319c62-e302-4063-98e3-446e4b09fb36",
+    "created_time" : "2024-07-23T02:22:00.000Z",
+    "last_edited_time" : "2024-07-23T02:27:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Jogo tapete (banheiro)",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Jogo tapete (banheiro)",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Jogo-tapete-banheiro-8e319c62e302406398e3446e4b09fb36",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "a7f727be-508a-47b4-aae5-20d8d7753868",
+    "created_time" : "2024-07-23T02:22:00.000Z",
+    "last_edited_time" : "2024-07-23T02:27:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Fruteira",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Fruteira",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Fruteira-a7f727be508a47b4aae520d8d7753868",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "3339d5ef-7794-4ff1-81d9-f6db305eda41",
+    "created_time" : "2024-07-23T02:22:00.000Z",
+    "last_edited_time" : "2024-07-23T02:26:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Escorredor de macarão",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Escorredor de macarão",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Escorredor-de-macar-o-3339d5ef77944ff181d9f6db305eda41",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "a88ae749-8411-4d51-998c-dfe30918e5a6",
+    "created_time" : "2024-07-23T02:22:00.000Z",
+    "last_edited_time" : "2024-08-19T17:20:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Peneiras inox (tamanhos variados)",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Peneiras inox (tamanhos variados)",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Peneiras-inox-tamanhos-variados-a88ae74984114d51998cdfe30918e5a6",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "19c446c5-7533-4cb4-9660-313326203f89",
+    "created_time" : "2024-07-23T02:21:00.000Z",
+    "last_edited_time" : "2024-07-23T02:27:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Tapete",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Tapete",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Tapete-19c446c575334cb49660313326203f89",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "27f9ef0b-fa30-4807-8fc2-d99746f4e777",
+    "created_time" : "2024-07-23T02:21:00.000Z",
+    "last_edited_time" : "2024-07-23T02:27:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Ralador",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Ralador",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Ralador-27f9ef0bfa3048078fc2d99746f4e777",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "aa483263-5746-4227-98ed-5c3d522b7c66",
+    "created_time" : "2024-07-23T02:21:00.000Z",
+    "last_edited_time" : "2024-07-23T02:27:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Porta detegente",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Porta detegente",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Porta-detegente-aa4832635746422798ed5c3d522b7c66",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "00b35d56-c07f-47e7-ad84-702891742d75",
+    "created_time" : "2024-07-23T02:21:00.000Z",
+    "last_edited_time" : "2024-07-23T02:28:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Varal de chão",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Varal de chão",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Varal-de-ch-o-00b35d56c07f47e7ad84702891742d75",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "ffbcfbb7-cf60-4ece-95d6-4edc3fd6efc0",
+    "created_time" : "2024-07-23T02:21:00.000Z",
+    "last_edited_time" : "2024-07-23T02:26:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Chaleira",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Chaleira",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Chaleira-ffbcfbb7cf604ece95d64edc3fd6efc0",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "ac614b55-d157-40b9-a9e8-29eb6d346ada",
+    "created_time" : "2024-07-23T02:21:00.000Z",
+    "last_edited_time" : "2024-07-23T02:27:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Espelho grande",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Espelho grande",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Espelho-grande-ac614b55d15740b9a9e829eb6d346ada",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "ea498810-8979-4539-abea-4459b9abfa1a",
+    "created_time" : "2024-07-23T02:20:00.000Z",
+    "last_edited_time" : "2024-07-23T02:27:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Pano de copa",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Pano de copa",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Pano-de-copa-ea49881089794539abea4459b9abfa1a",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "5faec5ee-a9f1-473e-8cc4-0454464323da",
+    "created_time" : "2024-07-23T02:20:00.000Z",
+    "last_edited_time" : "2024-07-23T02:26:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Conjunto de xícaras",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Conjunto de xícaras",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Conjunto-de-x-caras-5faec5eea9f1473e8cc40454464323da",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "9a919f62-71b4-4bf9-ba73-00b1c9c74e2b",
+    "created_time" : "2024-07-23T02:20:00.000Z",
+    "last_edited_time" : "2024-07-23T02:27:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Forma de pizza",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Forma de pizza",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Forma-de-pizza-9a919f6271b44bf9ba7300b1c9c74e2b",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "4fe9aefc-bdcd-4b23-9004-e9b0c1403653",
+    "created_time" : "2024-07-23T02:20:00.000Z",
+    "last_edited_time" : "2024-07-23T02:27:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Potes de plásticos",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Potes de plásticos",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Potes-de-pl-sticos-4fe9aefcbdcd4b239004e9b0c1403653",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "1a026cda-19a1-410f-8cbe-0b1d091c8f1b",
+    "created_time" : "2024-07-23T02:20:00.000Z",
+    "last_edited_time" : "2024-07-23T02:27:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Lençois de elástico (Cama King)",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Lençois de elástico (Cama King)",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Len-ois-de-el-stico-Cama-King-1a026cda19a1410f8cbe0b1d091c8f1b",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "8cc529c7-df68-4ae5-8af2-915ab259ed07",
+    "created_time" : "2024-07-23T02:18:00.000Z",
+    "last_edited_time" : "2024-07-23T02:26:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Capacho para porta",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Capacho para porta",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Capacho-para-porta-8cc529c7df684ae58af2915ab259ed07",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "c6296f18-3151-4fcb-801e-3f1da3b2044a",
+    "created_time" : "2024-07-23T02:18:00.000Z",
+    "last_edited_time" : "2024-08-19T17:11:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Travessas de vidro (tamanhos variados)",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Travessas de vidro (tamanhos variados)",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Travessas-de-vidro-tamanhos-variados-c6296f1831514fcb801e3f1da3b2044a",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "7221113e-b425-4a76-93eb-5ad5b5fe1527",
+    "created_time" : "2024-07-23T02:18:00.000Z",
+    "last_edited_time" : "2024-07-23T02:26:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Batedeira",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Batedeira",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Batedeira-7221113eb4254a7693eb5ad5b5fe1527",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "7132ec18-d6c3-474e-bd0a-54c69d81ad53",
+    "created_time" : "2024-07-23T02:17:00.000Z",
+    "last_edited_time" : "2024-08-19T17:27:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Forma de bolo redonda",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Forma de bolo redonda",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Forma-de-bolo-redonda-7132ec18d6c3474ebd0a54c69d81ad53",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "78ab1a4a-992a-42f5-8dcc-6c16901c964e",
+    "created_time" : "2024-07-23T02:17:00.000Z",
+    "last_edited_time" : "2024-07-23T02:28:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Toalhas de banho",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Toalhas de banho",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Toalhas-de-banho-78ab1a4a992a42f58dcc6c16901c964e",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "78632f8b-c3c2-4822-8c86-66eb5ececd8b",
+    "created_time" : "2024-07-23T02:17:00.000Z",
+    "last_edited_time" : "2024-07-23T02:28:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Toalhas de rosto",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Toalhas de rosto",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Toalhas-de-rosto-78632f8bc3c248228c8666eb5ececd8b",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "e6a10b54-2e2f-4e25-bb31-04eb9e9be048",
+    "created_time" : "2024-07-23T02:17:00.000Z",
+    "last_edited_time" : "2024-07-23T02:27:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Garrafa de Café",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Garrafa de Café",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Garrafa-de-Caf-e6a10b542e2f4e25bb3104eb9e9be048",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "c4be75ef-1484-452f-b672-d253e5c05ff9",
+    "created_time" : "2024-07-23T02:17:00.000Z",
+    "last_edited_time" : "2024-07-23T02:26:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Cabides",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Cabides",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Cabides-c4be75ef1484452fb672d253e5c05ff9",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "97771090-b2d5-4902-9e85-4a219ca8c1f4",
+    "created_time" : "2024-07-23T02:17:00.000Z",
+    "last_edited_time" : "2024-08-15T19:34:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Cesto de Roupa",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Cesto de Roupa",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Cesto-de-Roupa-97771090b2d549029e854a219ca8c1f4",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "a851fb8b-3d7e-42d3-a28d-63c22c0a9e5a",
+    "created_time" : "2024-07-23T02:16:00.000Z",
+    "last_edited_time" : "2024-07-23T02:28:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Travesseiro",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Travesseiro",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Travesseiro-a851fb8b3d7e42d3a28d63c22c0a9e5a",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "a2820ddc-d18b-438b-a81f-fa9c9c106b0b",
+    "created_time" : "2024-07-23T02:16:00.000Z",
+    "last_edited_time" : "2024-07-23T02:27:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Jogo de cama (King)",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Jogo de cama (King)",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Jogo-de-cama-King-a2820ddcd18b438ba81ffa9c9c106b0b",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "dfdf4aab-6e07-419b-8ebf-3029c944d181",
+    "created_time" : "2024-07-23T02:16:00.000Z",
+    "last_edited_time" : "2024-07-23T02:28:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Toalha de Banho",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Toalha de Banho",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Toalha-de-Banho-dfdf4aab6e07419b8ebf3029c944d181",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "4fcf4832-a678-45e5-b3a8-9f8b703bce14",
+    "created_time" : "2024-07-23T02:16:00.000Z",
+    "last_edited_time" : "2024-07-23T02:27:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Taças de sobremesa",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Taças de sobremesa",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Ta-as-de-sobremesa-4fcf4832a67845e5b3a89f8b703bce14",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "1b7dd6ff-5913-4e60-8b2e-c9ac38899784",
+    "created_time" : "2024-07-23T02:16:00.000Z",
+    "last_edited_time" : "2024-07-23T02:27:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Jarra de Suco",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Jarra de Suco",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Jarra-de-Suco-1b7dd6ff59134e608b2ec9ac38899784",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "34e81b59-3452-466e-820c-b733a05d5abc",
+    "created_time" : "2024-07-23T02:15:00.000Z",
+    "last_edited_time" : "2024-07-23T02:26:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Cuscuzeira",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Cuscuzeira",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Cuscuzeira-34e81b593452466e820cb733a05d5abc",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "ea52cbbf-70ec-4bc9-a258-37096d0a5d7c",
+    "created_time" : "2024-07-23T02:15:00.000Z",
+    "last_edited_time" : "2024-07-23T02:27:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Frigideira",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Frigideira",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Frigideira-ea52cbbf70ec4bc9a25837096d0a5d7c",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "b83bb6a6-2e8b-46c0-a38d-2b5318080158",
+    "created_time" : "2024-07-23T02:15:00.000Z",
+    "last_edited_time" : "2024-07-23T02:28:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Ventilador",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Ventilador",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Ventilador-b83bb6a62e8b46c0a38d2b5318080158",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "24fc4067-9a76-4032-8f2f-f3f4eba38c46",
+    "created_time" : "2024-07-23T02:15:00.000Z",
+    "last_edited_time" : "2024-07-23T02:27:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Faqueiro",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Faqueiro",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Faqueiro-24fc40679a7640328f2ff3f4eba38c46",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "6e487f2d-36fe-459b-91e2-0f45f43cfa30",
+    "created_time" : "2024-07-23T02:15:00.000Z",
+    "last_edited_time" : "2024-08-19T17:33:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Kit Silicone",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Kit Silicone",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Kit-Silicone-6e487f2d36fe459b91e20f45f43cfa30",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "fbb3b7bb-95ce-4f88-a74e-2cf330000767",
+    "created_time" : "2024-07-23T02:14:00.000Z",
+    "last_edited_time" : "2024-07-23T02:27:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Panela de Pressão",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Panela de Pressão",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Panela-de-Press-o-fbb3b7bb95ce4f88a74e2cf330000767",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "cd46560d-7b8e-4399-bf89-672301b39089",
+    "created_time" : "2024-07-23T02:14:00.000Z",
+    "last_edited_time" : "2024-07-23T02:26:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Conjunto de panelas",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Conjunto de panelas",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Conjunto-de-panelas-cd46560d7b8e4399bf89672301b39089",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "a85746ff-786a-48fd-bda7-eef9212ea35f",
+    "created_time" : "2024-07-23T01:05:00.000Z",
+    "last_edited_time" : "2024-07-23T02:13:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Microondas",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Microondas",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Microondas-a85746ff786a48fdbda7eef9212ea35f",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "eef2121d-86b6-4c5d-a0b8-bc1e6c29c907",
+    "created_time" : "2024-07-23T01:05:00.000Z",
+    "last_edited_time" : "2024-07-23T02:13:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Liquidificador",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Liquidificador",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Liquidificador-eef2121d86b64c5da0b8bc1e6c29c907",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "24b0ce94-d08c-4385-b5e4-433b34856168",
+    "created_time" : "2024-07-23T01:05:00.000Z",
+    "last_edited_time" : "2024-07-23T02:27:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "MOP",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "MOP",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/MOP-24b0ce94d08c4385b5e4433b34856168",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "3713f7e9-389c-4f24-9b6d-041d98c85e26",
+    "created_time" : "2024-07-23T01:05:00.000Z",
+    "last_edited_time" : "2024-07-23T02:13:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Sanduicheira",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Sanduicheira",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Sanduicheira-3713f7e9389c4f249b6d041d98c85e26",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "43b3c690-7b54-4acd-b741-c90d152d97d5",
+    "created_time" : "2024-07-23T01:05:00.000Z",
+    "last_edited_time" : "2024-08-19T17:48:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Pratos",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Pratos",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Pratos-43b3c6907b544acdb741c90d152d97d5",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "4423c648-d498-4e7a-b955-1f9ab345a3f3",
+    "created_time" : "2024-07-23T01:05:00.000Z",
+    "last_edited_time" : "2024-07-23T02:14:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Kit copos",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Kit copos",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Kit-copos-4423c648d4984e7ab9551f9ab345a3f3",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "523855ee-3f47-4d0c-bf51-8ff640a5f432",
+    "created_time" : "2024-07-23T01:05:00.000Z",
+    "last_edited_time" : "2024-08-15T19:35:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Tábua de passar roupa",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Tábua de passar roupa",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/T-bua-de-passar-roupa-523855ee3f474d0cbf518ff640a5f432",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "9acbe4d6-dcc5-4cae-b65b-fee1fbf6158f",
+    "created_time" : "2024-07-23T01:05:00.000Z",
+    "last_edited_time" : "2024-07-23T02:26:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Escorredor de Pratos",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Escorredor de Pratos",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Escorredor-de-Pratos-9acbe4d6dcc54caeb65bfee1fbf6158f",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "f739ff70-5973-4e97-8169-1fb005b5334c",
+    "created_time" : "2024-07-23T01:05:00.000Z",
+    "last_edited_time" : "2024-07-23T02:13:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Ferro de passar",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Ferro de passar",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Ferro-de-passar-f739ff7059734e9781691fb005b5334c",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "607453c4-e9d0-43a3-83bd-df95ede2dbfd",
+    "created_time" : "2024-07-23T01:05:00.000Z",
+    "last_edited_time" : "2024-07-23T02:14:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Talheres",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Talheres",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Talheres-607453c4e9d043a383bddf95ede2dbfd",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "a329aadc-e434-4598-8c8a-3ff819b39ad1",
+    "created_time" : "2024-07-23T01:05:00.000Z",
+    "last_edited_time" : "2024-08-15T19:38:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Lixeira banheiro ",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Lixeira banheiro ",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Lixeira-banheiro-a329aadce43445988c8a3ff819b39ad1",
+    "public_url" : null
+  },
+    {
+    "object" : "page",
+    "id" : "f6c0fffc-9392-4101-b59f-de0c9522ff9c",
+    "created_time" : "2024-07-23T01:05:00.000Z",
+    "last_edited_time" : "2024-07-23T02:26:00.000Z",
+    "created_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "last_edited_by" : {
+      "object" : "user",
+      "id" : "46e5d859-5576-4cc2-8929-fea2d1696f4f"
+    },
+    "cover" : null,
+    "icon" : null,
+    "parent" : {
+      "type" : "database_id",
+      "database_id" : "35417aed-c25f-478a-8f8e-277e8f047dda"
+    },
+    "archived" : false,
+    "in_trash" : false,
+    "properties" : {
+      "Done" : {
+        "id" : "%3A9gI",
+        "type" : "checkbox",
+        "checkbox" : false
+      },
+      "Progess" : {
+        "id" : "W%3Esb",
+        "type" : "select",
+        "select" : {
+          "id" : "f353d44c-ad86-42ed-9c3d-502af784b692",
+          "name" : "Não adquirido",
+          "color" : "red"
+        }
+      },
+      "Coisas" : {
+        "id" : "title",
+        "type" : "title",
+        "title" : [ {
+          "type" : "text",
+          "text" : {
+            "content" : "Air Fryer",
+            "link" : null
+          },
+          "annotations" : {
+            "bold" : false,
+            "italic" : false,
+            "strikethrough" : false,
+            "underline" : false,
+            "code" : false,
+            "color" : "default"
+          },
+          "plain_text" : "Air Fryer",
+          "href" : null
+        } ]
+      }
+    },
+    "url" : "https://www.notion.so/Air-Fryer-f6c0fffc93924101b59fde0c9522ff9c",
+    "public_url" : null
+  } ],
+  "next_cursor" : null,
+  "has_more" : false,
+  "type" : "page_or_database",
+  "page_or_database" : { },
+  "request_id" : "1f3fb005-2807-4523-b191-82a2278845f1"
+}
