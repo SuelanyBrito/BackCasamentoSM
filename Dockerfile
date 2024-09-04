@@ -1,11 +1,13 @@
 # Etapa de build
 FROM ubuntu:latest AS build
 
-# Atualize a lista de pacotes e instale dependências
-RUN apt-get update && apt-get install -y wget apt-transport-https
+# Atualize a lista de pacotes e instale dependências necessárias
+RUN apt-get update && apt-get install -y wget gnupg2 software-properties-common
+
+# Adicionar a chave GPG manualmente
+RUN wget -O- https://apt.corretto.aws/corretto.key | gpg --dearmor | tee /usr/share/keyrings/amazon-corretto-22-keyring.gpg
 
 # Adicionar repositório para OpenJDK 22
-RUN wget -O- https://apt.corretto.aws/corretto.key | gpg --dearmor | tee /usr/share/keyrings/amazon-corretto-22-keyring.gpg
 RUN echo 'deb [signed-by=/usr/share/keyrings/amazon-corretto-22-keyring.gpg] https://apt.corretto.aws stable main' | tee /etc/apt/sources.list.d/corretto-22.list
 
 # Instalar o OpenJDK 22
