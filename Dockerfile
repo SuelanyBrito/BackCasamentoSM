@@ -37,7 +37,7 @@ FROM openjdk:19-jdk-slim
 EXPOSE 8080
 
 # Copie o JAR gerado da etapa de build
-COPY --from=build /app/build/libs/sm-0.0.1-SNAPSHOT.jar sm-0.0.1-SNAPSHOT-plain.jar
+COPY --from=build /sm/build/libs/sm-0.0.1-SNAPSHOT.jar sm.jar
 
 # Comando de entrada para iniciar o aplicativo
-ENTRYPOINT ["java", "-jar", "sm-0.0.1-SNAPSHOT.jar"]
+ENTRYPOINT ["java", "-jar", "sm.jar"]
