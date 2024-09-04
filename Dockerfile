@@ -15,19 +15,11 @@ RUN wget https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19
     && update-alternatives --install /usr/bin/javac javac /usr/lib/jvm/java-19-openjdk/bin/javac 1
 
 # Copie o código-fonte para o diretório de trabalho
-COPY . .
+COPY --chown=gradle:gradle . /home/gradle/src
+WORKDIR /home/gradle/src
+RUN gradle build --no-daemon
 
-# Defina o diretório de trabalho
-WORKDIR /app
-
-# Garantir que o Gradle Wrapper tenha permissões executáveis
-RUN chmod +x ./gradlew
-
-# Compile o projeto usando Gradle
-RUN ./gradlew bootJar --no-daemon -Dorg.gradle.java.home=/usr/lib/jvm/java-19-openjdk bootJar
-
-# Etapa de runtime
-FROM openjdk:19-jdk-slim
+LABEL org.name="casamento.sm"
 
 # Exponha a porta da aplicação
 EXPOSE 8080
@@ -36,4 +28,4 @@ EXPOSE 8080
 COPY --from=build /app/build/libs/sm-0.0.1-SNAPSHOT.jar sm.jar
 
 # Comando de entrada para iniciar o aplicativo
-ENTRYPOINT ["java", "-jar", "sm.jar"]
+ENTRYPOINT ["java", "-jar", "/app.jar"]
