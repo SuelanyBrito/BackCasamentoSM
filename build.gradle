@@ -18,9 +18,12 @@ repositories {
 }
 
 dependencies {
+
+    implementation('org.springframework.boot:spring-boot-starter-web')
     implementation 'org.springframework.boot:spring-boot-starter-graphql'
-    implementation 'org.springframework.boot:spring-boot-starter-web'
     implementation 'com.graphql-java:graphql-java-extended-scalars:22.0'
+
+    implementation 'org.springframework.boot:spring-boot-starter-webflux'
 
     implementation 'org.projectlombok:lombok:1.18.34'
     testCompileOnly 'org.projectlombok:lombok:1.18.34'
