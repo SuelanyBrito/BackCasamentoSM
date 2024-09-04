@@ -16,7 +16,7 @@ RUN wget https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19
 
 WORKDIR /app
 COPY . /app/
-RUN gradle bootJar --no-daemon
+RUN gradle clean
 
 # Defina o diretório de trabalho
 WORKDIR /app
