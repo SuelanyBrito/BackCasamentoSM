@@ -15,12 +15,16 @@ RUN wget https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19
     && update-alternatives --install /usr/bin/javac javac /usr/lib/jvm/java-19-openjdk/bin/javac 1
 
 # Copie o código-fonte para o diretório de trabalho
-COPY ./ ./
+COPY . .
 
 # Defina o diretório de trabalho
 WORKDIR /app
 
+# Compile o projeto usando Gradle
+RUN ./gradlew bootJar --no-daemon
 
+# Etapa de runtime
+FROM openjdk:19-jdk-slim
 
 # Exponha a porta da aplicação
 EXPOSE 8080
