@@ -7,6 +7,9 @@ RUN apt-get update && apt-get install -y openjdk-17-jdk
 # Copie o código-fonte para o diretório de trabalho
 COPY . .
 
+# Garantir que o Gradle Wrapper tenha permissões executáveis
+RUN chmod +x ./gradlew
+
 # Compile o projeto usando Gradle
 RUN ./gradlew bootJar --no-daemon
 
