@@ -25,6 +25,7 @@ RUN wget https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19
 
 COPY . .
 RUN gradle clean
+RUN gradle build
 
 # Etapa de runtime
 FROM openjdk:19-jdk-slim
