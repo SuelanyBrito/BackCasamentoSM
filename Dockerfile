@@ -14,14 +14,12 @@ RUN wget https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19
     && update-alternatives --install /usr/bin/java java /usr/lib/jvm/java-19-openjdk/bin/java 1 \
     && update-alternatives --install /usr/bin/javac javac /usr/lib/jvm/java-19-openjdk/bin/javac 1
 
-# Copie o código-fonte para o diretório de trabalho
-COPY . .
+WORKDIR /app
+COPY . /app/
+RUN gradle bootJar --no-daemon
 
 # Defina o diretório de trabalho
 WORKDIR /app
-
-# Compile o projeto usando Gradle
-RUN ./gradlew bootJar --no-daemon
 
 # Etapa de runtime
 FROM openjdk:19-jdk-slim
