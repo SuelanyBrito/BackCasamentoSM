@@ -11,7 +11,7 @@ RUN wget -O- https://apt.corretto.aws/corretto.key | gpg --dearmor | tee /usr/sh
 RUN echo 'deb [signed-by=/usr/share/keyrings/amazon-corretto-22-keyring.gpg] https://apt.corretto.aws stable main' | tee /etc/apt/sources.list.d/corretto-22.list
 
 # Instalar o OpenJDK 22
-RUN apt-get update && apt-get install -y openjdk-22-jdk
+RUN apt-get update && apt-get install -y openjdk-22
 
 # Copie o código-fonte para o diretório de trabalho
 COPY . .
