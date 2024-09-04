@@ -20,7 +20,7 @@ FROM openjdk:17-jdk-slim
 EXPOSE 8080
 
 # Copie o JAR gerado da etapa de build
-COPY --from=build /target/demo-0.0.1-SNAPSHOT.jar demo.jar
+COPY --from=build /target/sm-0.0.1-SNAPSHOT.jar sm.jar
 
 # Comando de entrada para iniciar o aplicativo
-ENTRYPOINT ["java", "-jar", "demo.jar"]
+ENTRYPOINT ["java", "-jar", "sm.jar"]
