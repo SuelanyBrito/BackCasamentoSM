@@ -2,7 +2,7 @@
 FROM ubuntu:latest AS build
 
 # Atualize a lista de pacotes e instale o OpenJDK 17
-RUN apt-get update && apt-get install -y openjdk-17-jdk
+RUN apt-get update && apt-get install -y openjdk-18-jdk
 
 # Copie o código-fonte para o diretório de trabalho
 COPY . .
@@ -14,7 +14,7 @@ RUN chmod +x ./gradlew
 RUN ./gradlew bootJar --no-daemon
 
 # Etapa de runtime
-FROM openjdk:17-jdk-slim
+FROM openjdk:18-jdk-slim
 
 # Exponha a porta da aplicação
 EXPOSE 8080
