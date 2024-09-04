@@ -2,7 +2,7 @@
 FROM ubuntu:latest AS build
 
 # Atualize a lista de pacotes e instale o OpenJDK 17
-RUN apt-get update && apt-get install -y openjdk-18-jdk
+RUN apt-get update && apt-get install -y openjdk-18-jdk wget unzip
 
 # Copie o código-fonte para o diretório de trabalho
 COPY . .
@@ -11,7 +11,7 @@ COPY . .
 RUN chmod +x ./gradlew
 
 # Compile o projeto usando Gradle
-RUN ./gradlew bootJar --no-daemon
+RUN ./gradlew bootJar --no-daemon -Dorg.gradle.java.home=/usr/lib/jvm/java-18-openjdk-amd64 bootJar
 
 # Etapa de runtime
 FROM openjdk:18-jdk-slim
