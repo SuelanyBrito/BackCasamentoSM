@@ -24,7 +24,8 @@ RUN wget https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19
     && update-alternatives --install /usr/bin/javac javac /usr/lib/jvm/java-19-openjdk/bin/javac 1
 
 COPY . .
-RUN gradle clean install
+RUN gradle clean
+RUN gradle install
 
 # Etapa de runtime
 FROM openjdk:19-jdk-slim
