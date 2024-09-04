@@ -14,7 +14,7 @@ public class MarkList {
 
     public void updatePessoa(String newPessoa){
         this.properties.getPessoa().addText();
-        this.properties.getPessoa().getRichText().getFirst().getText().setContent(newPessoa);
+        this.properties.getPessoa().getRichText().get(0).getText().setContent(newPessoa);
     }
 
     @Getter
