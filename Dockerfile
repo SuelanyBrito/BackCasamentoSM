@@ -25,10 +25,11 @@ RUN wget https://github.com/adoptium/temurin20-binaries/releases/download/jdk-20
 
 COPY . .
 RUN gradle clean
+RUN gradle test --info
 RUN gradle build
 
 # Etapa de runtime
-FROM openjdk:19-jdk-slim
+FROM openjdk:20-jdk-slim
 
 # Exponha a porta da aplicação
 EXPOSE 8080
