@@ -25,7 +25,6 @@ RUN wget https://github.com/adoptium/temurin20-binaries/releases/download/jdk-20
 
 COPY . .
 RUN gradle clean
-RUN gradle test --info
 RUN gradle build
 
 # Etapa de runtime
