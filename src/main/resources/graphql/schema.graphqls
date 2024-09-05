@@ -13,12 +13,13 @@ type Element {
 }
 
 type Properties {
-    done: Done
+    marcado: Marcado
     progress: Progress
     titleProperty: TitleProperty
+    qtde: Qtde
 }
 
-type Done {
+type Marcado {
     checkbox: Boolean
 }
 
@@ -36,4 +37,8 @@ type TitleProperty {
 
 type Title {
     plain_text: String
+}
+
+type Qtde {
+    number: Int
 }
