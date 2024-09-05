@@ -19,8 +19,6 @@ public class NotionService {
     @Value("${token}")
     private String token;
 
-    private String url_update = "https://api.notion.com/v1/pages/";
-    
     private final RestTemplate restTemplate = new RestTemplate();
     private final WebClient.Builder webClientBuilder;
     private final ObjectMapper objectMapper = new ObjectMapper();
@@ -43,15 +41,17 @@ public class NotionService {
         return response.getBody();
     }
 
-    public Boolean mark(String id, String person){
-        String url =  this.url_update + id;
+    public Boolean mark(String id, String person, int quantidade){
+        String url_update = "https://api.notion.com/v1/pages/";
+        String url =  url_update + id;
         WebClient webClient = webClientBuilder.build();
         HttpHeaders headers = this.getHttpHeaders();
 
         MarkList markList = new MarkList();
-        markList.updatePessoa(person);
+        markList.updatePessoa(person,quantidade);
         String json = convertMarkListToJson(markList);
 
+        assert json != null;
         return webClient
                 .patch()
                 .uri(url)
@@ -61,13 +61,9 @@ public class NotionService {
                 .toBodilessEntity()
                 .doOnNext(response -> {
                     HttpHeaders responseHeaders = response.getHeaders();
-                    responseHeaders.forEach((name, values) -> {
-                        values.forEach(value -> System.out.println(name + ": " + value));
-                    });
+                    responseHeaders.forEach((name, values) -> values.forEach(value -> System.out.println(name + ": " + value)));
                 })
-                .doOnError(e -> {
-                    System.err.println("Error occurred: " + e.getMessage());
-                })
+                .doOnError(e -> System.err.println("Error occurred: " + e.getMessage()))
                 .map(response -> response.getStatusCode() == HttpStatus.OK)
                 .onErrorReturn(false)
                 .block();

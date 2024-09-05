@@ -17,10 +17,10 @@ public class WebsiteReloaderService {
         this.restTemplate = restTemplate;
     }
 
-    @Scheduled(fixedRate = 30000)
+    @Scheduled(fixedRate = 40000)
     public void reloadWebsite() {
         try {
-            String url = "https://backcasamentosm.onrender.com";
+            String url = "https://backcasamentosm.onrender.com/graphql";
             var response = restTemplate.getForEntity(url, String.class);
             logger.info("Reloaded at {}: Status Code {}", LocalDateTime.now(), response.getStatusCode());
         } catch (Exception e) {

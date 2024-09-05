@@ -19,7 +19,7 @@ public class NotionController {
     }
 
     @QueryMapping
-    public Boolean mark(@Argument String id, @Argument String person) {
-        return notionService.mark(id, person);
+    public Boolean mark(@Argument String id, @Argument String person, @Argument int quantity) {
+        return notionService.mark(id, person, quantity);
     }
 }

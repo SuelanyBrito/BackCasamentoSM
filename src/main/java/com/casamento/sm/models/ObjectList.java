@@ -25,8 +25,8 @@ public class ObjectList {
         @Getter
         @Setter
         public static class Properties {
-            @JsonProperty("Done")
-            private Done done;
+            @JsonProperty("Marcado")
+            private Marcado marcado;
 
             @JsonProperty("Progress")
             private Progress progress;
@@ -34,9 +34,19 @@ public class ObjectList {
             @JsonProperty("TitleProperty")
             private TitleProperty titleProperty;
 
+            @JsonProperty("Qtde")
+            private Qtde qtde;
+
             @Getter
             @Setter
-            public static class Done {
+            private static class Qtde {
+                @JsonProperty("number")
+                private int number;
+            }
+
+            @Getter
+            @Setter
+            public static class Marcado{
                 @JsonProperty("checkbox")
                 private Boolean checkbox;
             }

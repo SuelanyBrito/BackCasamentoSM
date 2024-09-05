@@ -12,9 +12,10 @@ import java.util.List;
 public class MarkList {
     private Properties properties = new Properties();
 
-    public void updatePessoa(String newPessoa){
+    public void updatePessoa(String newPessoa, int quantidade){
         this.properties.getPessoa().addText();
         this.properties.getPessoa().getRichText().get(0).getText().setContent(newPessoa);
+        this.properties.getQtde().setNumber(quantidade);
     }
 
     @Getter
@@ -24,6 +25,14 @@ public class MarkList {
         private Marcado marcado = new Marcado();
         @JsonProperty("Pessoa")
         private Pessoa pessoa = new Pessoa();
+        @JsonProperty("Qtde")
+        private Qtde qtde = new Qtde();
+
+        @Getter
+        @Setter
+        private static class Qtde {
+            private int number = 0;
+        }
 
         @Getter
         @Setter
