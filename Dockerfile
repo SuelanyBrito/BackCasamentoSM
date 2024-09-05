@@ -23,9 +23,16 @@ RUN wget https://github.com/adoptium/temurin20-binaries/releases/download/jdk-20
 && update-alternatives --install /usr/bin/java java /usr/lib/jvm/java-20-openjdk/bin/java 1 \
 && update-alternatives --install /usr/bin/javac javac /usr/lib/jvm/java-20-openjdk/bin/javac 1
 
-COPY . .
+# Copiar arquivos de construção
+COPY . /sm
+
+# Mudar para o diretório de construção
+WORKDIR /sm
+
 RUN gradle clean
 RUN gradle build
+
+RUN ls -l /sm/build/libs
 
 # Etapa de runtime
 FROM openjdk:20-jdk-slim
