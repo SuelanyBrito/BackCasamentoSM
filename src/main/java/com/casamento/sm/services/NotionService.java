@@ -21,9 +21,10 @@ public class NotionService {
     private String token;
 
     private String url_update = "https://api.notion.com/v1/pages/";
+    
     private final RestTemplate restTemplate = new RestTemplate();
-    @Autowired
-    private WebClient.Builder webClientBuilder;
+    private final WebClient.Builder webClientBuilder;
+    private final ObjectMapper objectMapper = new ObjectMapper();
 
 
     private HttpHeaders getHttpHeaders() {
@@ -72,7 +73,6 @@ public class NotionService {
                 .onErrorReturn(false)
                 .block();
     }
-    private final ObjectMapper objectMapper = new ObjectMapper();
 
     private String convertMarkListToJson(MarkList markList) {
         try {
