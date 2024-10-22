@@ -14,7 +14,8 @@ public class MarkList {
 
     public void updatePessoa(String newPessoa, int quantidade){
         this.properties.getPessoa().addText();
-        this.properties.getPessoa().getRichText().get(0).getText().setContent(newPessoa);
+        String personOld= this.properties.getPessoa().getRichText().get(0).getText().getContent();
+        this.properties.getPessoa().getRichText().get(0).getText().setContent(personOld+ "," +newPessoa);
         this.properties.getQtde().setNumber(quantidade);
     }
 
