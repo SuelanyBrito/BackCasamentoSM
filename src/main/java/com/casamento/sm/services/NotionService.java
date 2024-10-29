@@ -2,6 +2,7 @@ package com.casamento.sm.services;
 
 import com.casamento.sm.models.MarkList;
 import com.casamento.sm.models.ObjectList;
+import com.casamento.sm.models.ResultList;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Value;
@@ -41,11 +42,35 @@ public class NotionService {
         return response.getBody();
     }
 
+    public ResultList getElement(String id){
+
+        String url_update = "https://api.notion.com/v1/pages/";
+        String url =  url_update + id + "/properties/Pessoa";
+        System.out.println(url);
+        HttpHeaders headers = this.getHttpHeaders();
+        HttpEntity<String> entity = new HttpEntity<>(headers);
+        ResponseEntity<ResultList> response = restTemplate.exchange(url, HttpMethod.GET, entity, ResultList.class);
+        return response.getBody();
+    }
+
     public Boolean mark(String id, String person, int quantidade){
+        if(!id.isEmpty()){
+            ResultList test = getElement(id);
+            if(!test.getResults().isEmpty()) {
+                person = test.getResults().get(0).getRichText().getText().getContent() + "," + person+"-"+quantidade;
+            }else {
+                person = person+"-"+quantidade;
+            }
+            System.out.println(person);
+        }
+
+
+
         String url_update = "https://api.notion.com/v1/pages/";
         String url =  url_update + id;
         WebClient webClient = webClientBuilder.build();
         HttpHeaders headers = this.getHttpHeaders();
+
 
         MarkList markList = new MarkList();
         markList.updatePessoa(person,quantidade);
