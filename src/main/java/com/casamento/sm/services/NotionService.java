@@ -4,6 +4,7 @@ import com.casamento.sm.models.MarkList;
 import com.casamento.sm.models.ObjectList;
 import com.casamento.sm.models.ResultList;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
@@ -17,6 +18,9 @@ public class NotionService {
 
     @Value("${database_id}")
     private String database_id;
+    @Getter
+    @Value("${pix_key}")
+    private String pix_key;
     @Value("${token}")
     private String token;
 

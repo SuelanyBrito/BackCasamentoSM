@@ -18,6 +18,11 @@ public class NotionController {
         return notionService.getList();
     }
 
+    @QueryMapping("getPix")
+    public String getPix(){
+        return notionService.getPix_key();
+    }
+
     @QueryMapping
     public Boolean mark(@Argument String id, @Argument String person, @Argument int quantity) {
         return notionService.mark(id, person, quantity);
