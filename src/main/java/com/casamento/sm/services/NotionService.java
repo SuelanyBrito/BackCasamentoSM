@@ -57,13 +57,13 @@ public class NotionService {
         return response.getBody();
     }
 
-    public Boolean mark(String id, String person, int quantidade){
+    public Boolean mark(String id, String person, int quantidade, int quantityPrimary){
         if(!id.isEmpty()){
             ResultList test = getElement(id);
             if(!test.getResults().isEmpty()) {
-                person = test.getResults().get(0).getRichText().getText().getContent() + "," + person+"-"+quantidade;
+                person = test.getResults().get(0).getRichText().getText().getContent() + "," + person+"-"+quantityPrimary;
             }else {
-                person = person+"-"+quantidade;
+                person = person+"-"+quantityPrimary;
             }
             System.out.println(person);
         }

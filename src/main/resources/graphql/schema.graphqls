@@ -1,7 +1,7 @@
 type Query {
     getList: ObjectList
     getPix: String
-    mark(id: String!, person: String!, quantity: Int!): Boolean
+    mark(id: String!, person: String!, quantity: Int!, quantityPrimary: Int!): Boolean
 }
 
 type ObjectList {
