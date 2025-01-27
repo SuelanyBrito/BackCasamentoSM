@@ -1,6 +1,7 @@
 type Query {
     getList: ObjectList
     getPix: String
+    getPixAna: String
     mark(id: String!, person: String!, quantity: Int!, quantityPrimary: Int!): Boolean
 }
 

@@ -18,9 +18,15 @@ public class NotionService {
 
     @Value("${database_id}")
     private String database_id;
+
     @Getter
     @Value("${pix_key}")
     private String pix_key;
+
+    @Getter
+    @Value("${pix_key_ana}")
+    private String pix_key_ana;
+
     @Value("${token}")
     private String token;
 

@@ -23,6 +23,11 @@ public class NotionController {
         return notionService.getPix_key();
     }
 
+    @QueryMapping("getPixAna")
+    public String getPixAna(){
+        return notionService.getPix_key_ana();
+    }
+
     @QueryMapping
     public Boolean mark(@Argument String id, @Argument String person, @Argument int quantity, @Argument int quantityPrimary) {
         return notionService.mark(id, person, quantity, quantityPrimary);
