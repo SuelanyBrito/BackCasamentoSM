@@ -1,4 +1,4 @@
-package com.casamento.sm.config;
+package com.casamento.app.config;
 
 import graphql.scalars.ExtendedScalars;
 import org.springframework.context.annotation.Bean;

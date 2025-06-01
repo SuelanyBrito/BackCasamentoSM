@@ -1,8 +1,8 @@
-package com.casamento.sm.services;
+package com.casamento.app.services;
 
-import com.casamento.sm.models.MarkList;
-import com.casamento.sm.models.ObjectList;
-import com.casamento.sm.models.ResultList;
+import com.casamento.app.models.MarkList;
+import com.casamento.app.models.ObjectList;
+import com.casamento.app.models.ResultList;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
@@ -22,10 +22,6 @@ public class NotionService {
     @Getter
     @Value("${pix_key}")
     private String pix_key;
-
-    @Getter
-    @Value("${pix_key_ana}")
-    private String pix_key_ana;
 
     @Value("${token}")
     private String token;

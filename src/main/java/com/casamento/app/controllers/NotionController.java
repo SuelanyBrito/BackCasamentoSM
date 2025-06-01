@@ -1,11 +1,12 @@
-package com.casamento.sm.controllers;
+package com.casamento.app.controllers;
 
-import com.casamento.sm.models.ObjectList;
-import com.casamento.sm.services.NotionService;
 import lombok.AllArgsConstructor;
 import org.springframework.graphql.data.method.annotation.Argument;
 import org.springframework.graphql.data.method.annotation.QueryMapping;
 import org.springframework.stereotype.Controller;
+
+import com.casamento.app.models.ObjectList;
+import com.casamento.app.services.NotionService;
 
 @Controller
 @AllArgsConstructor
@@ -21,11 +22,6 @@ public class NotionController {
     @QueryMapping("getPix")
     public String getPix(){
         return notionService.getPix_key();
-    }
-
-    @QueryMapping("getPixAna")
-    public String getPixAna(){
-        return notionService.getPix_key_ana();
     }
 
     @QueryMapping

@@ -1,4 +1,4 @@
-package com.casamento.sm.services;
+package com.casamento.app.services;
 
 import org.springframework.stereotype.Service;
 import org.springframework.scheduling.annotation.Scheduled;

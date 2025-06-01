@@ -24,15 +24,15 @@ RUN wget https://github.com/adoptium/temurin20-binaries/releases/download/jdk-20
 && update-alternatives --install /usr/bin/javac javac /usr/lib/jvm/java-20-openjdk/bin/javac 1
 
 # Copiar arquivos de construção
-COPY . /sm
+COPY . /app
 
 # Mudar para o diretório de construção
-WORKDIR /sm
+WORKDIR /app
 
 RUN gradle clean
 RUN gradle build
 
-RUN ls -l /sm/build/libs
+RUN ls -l /app/build/libs
 
 # Etapa de runtime
 FROM openjdk:20-jdk-slim
@@ -41,7 +41,7 @@ FROM openjdk:20-jdk-slim
 EXPOSE 8080
 
 # Copie o JAR gerado da etapa de build
-COPY --from=build /sm/build/libs/sm-0.0.1-SNAPSHOT.jar sm.jar
+COPY --from=build /app/build/libs/app-0.0.1-SNAPSHOT.jar app.jar
 
 # Comando de entrada para iniciar o aplicativo
-ENTRYPOINT ["java", "-jar", "sm.jar"]
+ENTRYPOINT ["java", "-jar", "app.jar"]

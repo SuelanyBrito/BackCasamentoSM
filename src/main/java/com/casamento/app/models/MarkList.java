@@ -1,4 +1,4 @@
-package com.casamento.sm.models;
+package com.casamento.app.models;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Getter;
