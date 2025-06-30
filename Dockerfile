@@ -7,7 +7,7 @@ RUN apt-get update && apt-get install -y \
     tar
 
 # Instala o Gradle
-ENV GRADLE_VERSION=8.9
+ENV GRADLE_VERSION=8.1
 RUN apt-get update && \
     apt-get install -y wget unzip && \
     wget https://services.gradle.org/distributions/gradle-${GRADLE_VERSION}-bin.zip && \
